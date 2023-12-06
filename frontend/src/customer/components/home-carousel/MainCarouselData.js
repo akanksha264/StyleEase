@@ -1,0 +1,22 @@
+export const mainCarouselData=[
+    {
+        image:"https://assets.ajio.com/cms/AJIO/WEB/D-1.0-UHP-05102023-MainBanner-Aditi-5090.gif",
+        path:""
+    },
+    {
+        image:"https://assets.ajio.com/cms/AJIO/WEB/D-1.0-UHP-16102023-MainBannerDailyChanging-Z1-P4-ArrowVanheusen-upto40.jpg",
+        path:""
+    },
+    {
+        image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/1/_/1_7.jpg",
+        path:""
+    },
+    {
+        image:"https://assets.ajio.com/cms/AJIO/WEB/D-1.0-UHP-16102023-MainBannerDailyChanging-Z1-P6-dillingerthebearhouse-min60.jpg",
+        path:""
+    },
+    {
+        image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/3/_/3_12.jpg",
+        path:""
+    }
+]
